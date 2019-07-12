@@ -1,3 +1,7 @@
+body{
+	background-color: #333333;
+}
+
 .myname{
 	font-family: Rockwell, Georgia, Courier Bold, serif;
 	font-size: 60px;
