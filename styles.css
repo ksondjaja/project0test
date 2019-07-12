@@ -3,13 +3,13 @@ body{
 }
 
 .myname{
-	font-family: Rockwell, Georgia, Courier Bold, serif;
+	font-family: Rockwell, Bookman, Courier New, serif;
 	font-size: 60px;
 	font-weight: bold;
 	color: #78BECB;
 }
 .title{
-	font-family: Rockwell, Courier Bold, Georgia, serif;
+	font-family: Rockwell, Bookman, Courier New, serif;
 	font-size: 28px;
 	font-weight: bold;
 	color: #78BECB;
