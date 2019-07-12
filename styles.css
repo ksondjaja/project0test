@@ -1,0 +1,30 @@
+.myname{
+	font-family: Rockwell, Georgia, Courier Bold, serif;
+	font-size: 60px;
+	font-weight: bold;
+	color: #78BECB;
+}
+.title{
+	font-family: Rockwell, Georgia, Courier Bold, serif;
+	font-size: 28px;
+	font-weight: bold;
+	color: #78BECB;
+}
+#navibar{
+	font-family: Tw Cen MT, Avant Garde, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: #78BECB;
+}
+#navibar a{
+	color:#78BECB;
+	text-decoration: none;
+	}
+#navibar a:hover{
+	background-color:#78BECB;
+	color: #333333;
+	text-decoration: none;
+	}
+p {
+	font-family: Tw Cen MT, Avant Garde, sans-serif;
+}
