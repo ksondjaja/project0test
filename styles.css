@@ -1,7 +1,6 @@
 body{
 	background-color: #333333;
 }
-
 .myname{
 	font-family: Rockwell, Bookman, Courier, serif;
 	font-size: 60px;
@@ -10,7 +9,7 @@ body{
 }
 .title{
 	font-family: Rockwell, Bookman, Courier, serif;
-	font-size: 28px;
+	font-size: 34px;
 	font-weight: bold;
 	color: #78BECB;
 }
@@ -29,6 +28,27 @@ body{
 	color: #333333;
 	text-decoration: none;
 	}
+h4{
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+	font-family: Tw Cen MT, Avant Garde, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	background-color:#78BECB;
+	color: #333333;
+}
+#content{
+	text-align: center;
+}
 p {
 	font-family: Tw Cen MT, Avant Garde, sans-serif;
+	font-size: 16px;
+	color:#bdbdbd;
+}
+.jobtitle{
+	text-align: center;
+	font-family: Tw Cen MT, Avant Garde, sans-serif;
+	font-size: 20px;
+	color:#bdbdbd;
 }
