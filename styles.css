@@ -11,7 +11,7 @@ body{
 	font-family: Rockwell, Bookman, Arvo, serif;
 	font-size: 34px;
 	font-weight: bold;
-	color: #78BECB;
+	color: #bdbdbd;
 }
 #navibar{
 	font-family: Tw Cen MT, Avant Garde, sans-serif;
@@ -20,11 +20,11 @@ body{
 	color: #78BECB;
 }
 #navibar a{
-	color:#78BECB;
+	color:#d2a9c8;
 	text-decoration: none;
 	}
 #navibar a:hover{
-	background-color:#78BECB;
+	background-color:#bdbdbd;
 	color: #333333;
 	text-decoration: none;
 	}
@@ -35,7 +35,7 @@ h4{
 	font-family: Tw Cen MT, Avant Garde, sans-serif;
 	font-size: 22px;
 	font-weight: bold;
-	background-color:#78BECB;
+	background-color:#bdbdbd;
 	color: #333333;
 }
 #content{
@@ -44,11 +44,24 @@ h4{
 p {
 	font-family: Tw Cen MT, Avant Garde, sans-serif;
 	font-size: 16px;
+	color:#78BECB;
+}
+p a{
+	text-decoration: none;
+	color: #d2a9c8;
+}
+p a:hover{
 	color:#bdbdbd;
 }
 .jobtitle{
 	text-align: center;
 	font-family: Tw Cen MT, Avant Garde, sans-serif;
 	font-size: 20px;
+	color:#78BECB;
+}
+.achievements{
+	text-align: center;
+	font-family: Tw Cen MT, Avant Garde, sans-serif;
+	font-size: 16px;
 	color:#bdbdbd;
 }
