@@ -1,0 +1,121 @@
+$bluegreen: #78BECB;
+$greytext: #bdbdbd;
+$pinktext: #d2a9c8;
+$bggrey: #333333;
+
+$titlefont: Rockwell, Bookman, Arvo, serif;
+$bodyfont: Tw Cen MT, Avant Garde, sans-serif;
+
+body{
+	background-color: $bggrey;
+}
+.myname{
+	font-family: $titlefont;
+	font-size: 60px;
+	font-weight: bold;
+	color: $bluegreen;
+}
+.title{
+	font-family: $titlefont;
+	font-size: 34px;
+	font-weight: bold;
+	color: $greytext;
+}
+ul{
+	margin-right: 5%;
+
+	#navibar{
+		font-family: $bodyfont;
+		font-weight: bold;
+		font-size: 18px;
+		color: $bluegreen;
+
+		a{
+			color: $pinktext;
+			text-decoration: none;
+			}
+		a:hover{
+			background-color: $greytext;
+			color: $bggrey;
+			text-decoration: none;
+			}
+	}
+}
+h4{
+	margin-right: 2%;
+	padding-left: 1%;
+	text-align: left;
+	font-family: $bodyfont;
+	font-size: 22px;
+	font-weight: bold;
+	background-color:$greytext;
+	color: $bggrey;
+}
+.container{
+	margin-left: 7.5%;
+	margin-right: 7.5%;
+	line-height: 18px;
+	}
+
+
+p {
+	font-family: $bodyfont;
+	font-size: 16px;
+	color: $bluegreen;
+	line-height: 16px;
+
+	a{
+		text-decoration: none;
+		color: $pinktext;
+	}
+	a:hover{
+		color: $greytext;
+	}
+}
+.jobtitle{
+	text-align: center;
+	font-family: $bodyfont;
+	font-size: 20px;
+	color: $bluegreen;
+}
+.achievements{
+	text-align: center;
+	font-family: $bodyfont;
+	font-size: 16px;
+	color: $greytext;
+}
+table{
+	text-align: left;
+	font-family: $bodyfont;
+	font-size: 18px;
+	color: $bluegreen;
+
+	a{
+		text-decoration: none;
+		color: $pinktext;
+	}
+	a:hover{
+		color: $greytext;
+		}
+
+	th{
+		text-align: right;
+		padding-right: 2%;
+		padding-left: 1%;
+		vertical-align: top;}
+}
+textarea{
+	background: $bggrey;
+	border: 2px solid $greytext;
+	color: $greytext;
+	height: 200px;
+	width: 420px;}
+button{
+	background-color: $pinktext;
+	border: 1px solid $greytext;
+	font-family: $bodyfont;
+	font-size: 16px;
+	color: $bggrey;
+	font-weight: bold;
+	padding: 5px 10px;
+}
