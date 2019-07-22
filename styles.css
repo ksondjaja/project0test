@@ -1,3 +1,14 @@
+#navibar {
+  display: block;
+  padding: 10px;
+  float: right;
+  height: 20px; }
+
+#header {
+  float: center;
+  text-align: center;
+  margin-top: 20px; }
+
 body {
   background-color: #333333; }
 

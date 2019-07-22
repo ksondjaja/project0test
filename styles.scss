@@ -6,6 +6,20 @@ $bggrey: #333333;
 $titlefont: Rockwell, Bookman, Arvo, serif;
 $bodyfont: Tw Cen MT, Avant Garde, sans-serif;
 
+
+#navibar{
+	display: block;
+	padding: 10px;
+	float: right;
+	height: 20px;
+}
+
+#header {
+	float: center;
+	text-align: center;
+	margin-top: 20px;
+}
+
 body{
 	background-color: $bggrey;
 }
