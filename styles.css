@@ -89,7 +89,7 @@ textarea {
   height: 200px;
   width: 420px; }
 
-button {
+.btn-primary {
   background-color: #d2a9c8;
   border: 1px solid #bdbdbd;
   font-family: Tw Cen MT, Avant Garde, sans-serif;
@@ -97,3 +97,8 @@ button {
   color: #333333;
   font-weight: bold;
   padding: 5px 10px; }
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+  color: #d2a9c8;
+  background-color: #333333;
+  border-color: #bdbdbd; }
